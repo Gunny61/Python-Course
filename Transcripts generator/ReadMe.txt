@@ -1,1 +1,0 @@
-Run proj2.py and it starts running on the local host, final output can be seen in pdfs folder.(the website will direct you anyway)
